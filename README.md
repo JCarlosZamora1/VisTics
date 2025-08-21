@@ -19,4 +19,6 @@ Runs the app in the development mode.\
 
 ### `npm run build`
 Creates builds for produtions purposes
-About db: usuarios.db has only less than 10 users and the only one doing administrator´s work is indeed admin psswrd admin
+About db: usuarios.db has only less than 10 users and the only one doing administrator´s work is indeed "admin" psswrd "admin"
+current database is very poor and its only purpose is to set the admin up so you can easily just create a new one
+password for N user is "choco"
