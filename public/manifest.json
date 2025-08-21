@@ -1,0 +1,33 @@
+{
+  "short_name": "Vistics",
+  "name": "VisTics App",
+  "dir":"ltr", 
+
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "LOGO.PNG",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "LOGO.PNG",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  
+  "orientation":"any",
+  "lang":"es-MX",
+  "display_override":["standalone","fullscreen"],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#641434",
+  "scope": "/"
+  
+}

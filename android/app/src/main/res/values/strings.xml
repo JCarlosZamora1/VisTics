@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VisTicsMovil</string>
+    <string name="title_activity_main">VisTicsMovil</string>
+    <string name="package_name">com.Juca.VisTics</string>
+    <string name="custom_url_scheme">com.Juca.VisTics</string>
+</resources>
